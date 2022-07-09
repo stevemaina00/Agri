@@ -167,3 +167,28 @@ h5{
     align-content: space-around;
     display: flex;
 }
+.footer1{
+    text-align: center;
+    box-sizing: border-box;
+    height: 350px;
+    width: 85%;
+    background-color: black;
+    border-color: #fafafa;
+    justify-content: center;
+    margin: 150px;
+    margin-left: 75px;
+
+}
+.words{
+    text-align: center;
+    
+    color: white;
+}
+#sub{
+    color: orange;
+}
+h6{
+    color: white;
+    font-size: large;
+    padding: 50px;
+}
