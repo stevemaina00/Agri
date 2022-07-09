@@ -117,3 +117,32 @@ h5{
     font-size: large;
     margin: 50px;
 }
+.checked {
+    color: orange;
+  }
+  .box1 {
+    background-color: #fafafa;
+    height: 200px;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid grey;
+    margin: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 50px;
+
+  }
+  .pic{
+    display: flex;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    justify-content: space-around;
+    margin: 5px;
+    
+  }
+  .boxes{
+    display: flex;
+    justify-content: space-around;
+
+
+  }
