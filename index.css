@@ -143,6 +143,27 @@ h5{
   .boxes{
     display: flex;
     justify-content: space-around;
+}
+.box2{
+    background-color: #fafafa;
+    height: 200px;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    text-align: center;
+    float: right;
 
+}
+.pic2{
+    display: flex;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    justify-content: space-around;
+    margin: 5px;
 
-  }
+}
+.boxes{
+    align-content: space-around;
+    display: flex;
+}
