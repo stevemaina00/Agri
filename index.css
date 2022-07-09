@@ -108,3 +108,12 @@ h4{
     -webkit-transform: rotate(-45deg);
     color: black;
 }
+
+.bar{
+    background-color: grey;
+    height: 25px;
+}
+h5{
+    font-size: x-large;
+    margin: 50px;
+}
