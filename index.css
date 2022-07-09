@@ -72,3 +72,10 @@ u{
     text-align: center;
     padding-top: 1px;
 }
+.popular{
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    margin: 30px;
+}
