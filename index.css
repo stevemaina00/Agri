@@ -77,5 +77,14 @@ u{
     justify-content: space-around;
 }
 h3{
-    margin: 30px;
+    margin: 40px;
 }
+h4{
+    margin: 40px;
+}
+.item{
+    margin: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
