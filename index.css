@@ -24,9 +24,29 @@ nav{
 }
 button{
     background-color: orange;
+    border: none;
     color: white;
-    border-radius: 500px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
+.bt{
+    padding: 12px 28px;
+    background-color: orange;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
 #Home{
     color: white;
 }
@@ -196,7 +216,7 @@ h6{
 .footer2{
     box-sizing: border-box;
     background-color: black;
-    height: 500px;
+    height: 600px;
     width: 1200px;
     margin: 50px;
     
@@ -232,6 +252,14 @@ h6{
 #g{
     color: grey;
     font-size: x-large;
-    font-weight: bolder
+    font-weight: bolder;
+    margin: 50px;
    
+}
+.icons{
+    margin: 50px;
+}
+.downloads{
+    margin: 50px;
+    background-color: black;
 }
