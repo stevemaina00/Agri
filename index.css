@@ -33,19 +33,6 @@ button{
     margin: 4px 2px;
     cursor: pointer;
 }
-.bt{
-    padding: 12px 28px;
-    background-color: orange;
-    border: none;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}
-
 
 #Home{
     color: white;
@@ -216,7 +203,7 @@ h6{
 .footer2{
     box-sizing: border-box;
     background-color: black;
-    height: 600px;
+    height: 650px;
     width: 1200px;
     margin: 50px;
     
@@ -262,4 +249,8 @@ h6{
 .downloads{
     margin: 50px;
     background-color: black;
+}
+#rights{
+    color: grey;
+    text-align: center;
 }
