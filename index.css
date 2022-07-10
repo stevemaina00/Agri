@@ -205,4 +205,11 @@ h6{
     color: white;
     display: flex;
     float: right;
+    justify-content: space-between;
+    margin-right: 150px;
+    padding-top: 50px;
+}
+#head0{
+    font-size: larger;
+    font-weight: bolder;
 }
