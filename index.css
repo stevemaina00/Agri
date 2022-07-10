@@ -193,3 +193,16 @@ h6{
     font-size: large;
     padding: 50px;
 }
+.footer2{
+    box-sizing: border-box;
+    background-color: black;
+    height: 500px;
+    width: 1200px;
+    margin: 50px;
+    
+}
+.list{
+    color: white;
+    display: flex;
+    float: right;
+}
