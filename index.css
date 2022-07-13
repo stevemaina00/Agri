@@ -58,7 +58,7 @@ u{
 .part3{
     padding: 35px;
     margin: 50px;
-    background-image: url('assets/image 1 (1).png'), url('assets/image 2 (2).png');
+    background-image: url('assets/image 1 (1).png'),url('assets/image 2 (2).png');
     background-position: right top, right top;
     background-repeat: no-repeat, repeat;
     height: 300px;
@@ -142,7 +142,7 @@ h5{
   .pic{
     display: flex;
     padding-top: 0px;
-    padding-bottom: 50px;
+    padding-bottom: 70px;
     justify-content: space-around;
     margin: 5px;
     
@@ -206,6 +206,8 @@ h6{
     height: 650px;
     width: 1200px;
     margin: 50px;
+
+    
     
 }
 .list{
@@ -253,4 +255,66 @@ h6{
 #rights{
     color: grey;
     text-align: center;
+}
+.box2{
+    background-color: #fafafa;
+    height: 200px;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid grey;
+    margin: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 50px;
+}
+.box3{
+    background-color: #fafafa;
+    height: 200px;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid grey;
+    margin: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 50px;
+
+}
+.Read{
+    text-align: right;
+    margin-right: 25px;
+    padding-top: 35px;
+}
+.white{
+    box-sizing: border-box;
+    border: 5px solid white;
+    height: 120px;
+    width: 500px;
+    margin: 50px;
+    margin-left: 30%;
+    max-width: 80%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    background-color: #fdfdfd;
+    margin-top: 3%;
+
+}
+.pp{
+    text-align: center;
+    align-items: center;
+    margin-top: 7%;
+}
+.line{
+    box-sizing: border-box;
+    width: 55px;
+    height: 3px;
+    background-color: #ED661F;
+    margin-left: 47%;
+    
+    
+}
+.See{
+    float: right;
 }
