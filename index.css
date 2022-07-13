@@ -318,3 +318,11 @@ h6{
 .See{
     float: right;
 }
+#p5{
+    font-size: large;
+    font-weight: bold;
+}
+#p6{
+    font-size: medium;
+    font-weight: bold;
+}
