@@ -47,8 +47,10 @@ margin-right: 350px;
     float: right;
     display: flex;
     padding-bottom: 0px;
-    margin-top: 0px;
-    height: 100px;
+    margin-top: -15%;
+    height: 200px;
+    margin-right: 35%;
+    width: 375px;
     
 
 }
@@ -58,7 +60,7 @@ u{
 .part3{
     padding: 35px;
     margin: 50px;
-    background-image: url('assets/image 1 (1).png'),url('assets/image 2 (2).png');
+    background-image: url('assets/image 1 (1).png');
     background-position: right top, right top;
     background-repeat: no-repeat, repeat;
     height: 300px;
@@ -290,7 +292,7 @@ h6{
     height: 120px;
     width: 500px;
     margin: 50px;
-    margin-left: 30%;
+    margin-left: 40%;
     max-width: 80%;
     display: flex;
     justify-content: space-around;
