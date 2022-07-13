@@ -326,3 +326,12 @@ h6{
     font-size: medium;
     font-weight: bold;
 }
+.ct{
+    font-size: medium;
+    font-weight: 500;
+}
+.downloads{
+    display: flex;
+    align-self: auto;
+
+}
